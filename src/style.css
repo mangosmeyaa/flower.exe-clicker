@@ -1,5 +1,15 @@
 @import "tailwindcss";
 
+@theme {
+  
+  --color-tickle-me-pink-400: #f6829f;
+  
+--color-pink-200: #ffc0cb;
+--color-gold-500: #ffd700;
+--color-beige-100: #f5f5dc;
+
+}
+
 main {  display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1.1fr 0.9fr;
